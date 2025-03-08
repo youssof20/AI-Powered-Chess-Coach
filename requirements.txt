@@ -1,0 +1,4 @@
+stockfish
+tensorflow
+numpy
+python-chess
