@@ -14,9 +14,6 @@ It helps chess players by:
 - **TensorFlow**
 - **python-chess** (for board representation)
 
-## 🎯 Why it helps?
-Chess is mentioned under **MBZUAI’s "Exceptional Talent Track"**, making this project highly relevant. It serves as an **AI-driven tool** for chess players to enhance their strategic thinking.
-
 ---
 
 ## 📥 Installation
