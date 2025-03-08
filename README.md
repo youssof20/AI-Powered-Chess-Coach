@@ -1,4 +1,4 @@
-```markdown
+
 # 🧠 AI-Powered Chess Coach (Stockfish + ML)
 
 ## 🚀 What it does
